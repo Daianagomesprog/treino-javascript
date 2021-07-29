@@ -5,5 +5,5 @@ if (soma == 50){
     console.log("É igual a 50!"); 
 
 } else {
-   console.log("Não é igual a 50."); 
+   console.log("Não é igual a xpto."); 
 }
